@@ -6,4 +6,5 @@ changes in computer files and coordinating work on those files among multiple pe
 ## Basic Commands
 1. $git init  //initialize local git repo
 2. $git add <file> // add file to index
-3. 
+3. $git status // check status
+4. $git commit
