@@ -8,3 +8,7 @@ changes in computer files and coordinating work on those files among multiple pe
 2. $git add <file> // add file to index
 3. $git status // check status
 4. $git commit
+5. $git push
+6. $git pull
+7. $git clone
+8. 
